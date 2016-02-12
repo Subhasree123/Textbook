@@ -1,0 +1,17 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Search Icon on top of Launcher\relax }}{2}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Enter the system password here\relax }}{2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Type OpenFOAM in the search box\relax }}{3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Click on OpenFOAM and Paraview to Mark and Install\relax }}{3}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Press Ctrl+Alt+t keys to open up terminal window\relax }}{3}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Open the bashrc file\relax }}{4}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Usage message appears which shows OpenFOAM is correctly installed\relax }}{4}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Example problem solved after OpenFOAM installation\relax }}{5}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces blockMesh utility for Meshing in OpenFOAM\relax }}{6}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Terminal shows the iterations running\relax }}{6}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Paraview window\relax }}{7}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Geometry seen in the Paraview Window\relax }}{7}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Uncheck the internal mesh option\relax }}{8}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Check for the moving and fixedWalls in paraview window\relax }}{8}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces FixedWalls appear in the paraview window\relax }}{9}
